@@ -6,7 +6,7 @@
   <img src="https://github.com/Ivan-Veselov/console-roguelike/wiki/images/demo.gif">
 </p>
 
-This project was done as part of Software Design course in Saint Petersburg Academic University (Spring 2018). It is a simple [roguelike](https://en.wikipedia.org/wiki/Roguelike) console game written on Kotlin.
+This project was done as part of Software Design course in Saint Petersburg Academic University (Spring 2018). It is a simple [roguelike](https://en.wikipedia.org/wiki/Roguelike) console game written in Kotlin.
 
 ## Building
 
